@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RHgm1S/RJWFnu3l3T7QsLrh6t8EKm9Olbhwin8/drI+WQpjZj1/O/gvzfjeQKvMtKBiRMBy2+z5tmHyqbv0qyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artyom\\source\\repos\\asswecan\\asswecan\\asswecan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artyom\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
