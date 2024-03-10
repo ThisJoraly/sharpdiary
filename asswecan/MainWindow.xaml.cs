@@ -58,7 +58,7 @@ namespace asswecan
             DateTime? date = datepicker.SelectedDate;
             string name = note_name.Text;
             string description = note_description.Text;
-            Note n = new Note(Meow = name, Meow2 = description, Meow3 = date);
+            Note n = new Note(name, description, date);
             Notes.notes.Add(n);
             listbox.ItemsSource = null;
             Json<List<Note>> json = new Json<List<Note>>();
